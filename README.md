@@ -8,4 +8,4 @@ Titanik'in batması tarihteki en trajik gemi kazalarından biridir.
 
 📌Bu projede Titanik'in yolcu listesindeki kişilerin bilgileri kullanılarak bir analiz gerçekleştirilmiştir.
 
-📌Verilere göre keşfedici veri analizi yapılmış ve bu analiz sonuçlarına göre veri görselleştirmesi yapılmıştır.
+📌Verilere göre keşfedici veri analizi gerçekleştirilmiş ve bu analiz sonuçlarına göre veri görselleştirmesi yapılmıştır.
