@@ -1,4 +1,4 @@
-# Titanic-Data-Analysis
+# Titanic Veri Analizi
 ![image](https://github.com/sevgiesiyok/Titanic-Data-Analys/assets/95496768/f4f70180-482e-4294-bfb9-6ca745bd5275)
 
 
